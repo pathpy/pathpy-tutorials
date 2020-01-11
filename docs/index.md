@@ -12,16 +12,16 @@ To address this challenge, researchers have developed advanced graph modelling a
 # Tutors
 
 [Anton Eriksson](https://antoneri.github.io/)  
-Researcher
-Complex Systems Group
-Department of Physics
-Umeå University, SE
+Researcher  
+Complex Systems Group  
+Department of Physics  
+Umeå University, SE  
 
 [Jürgen Hackl](https://hackl.science)  
-Assistant Professor
-Department of Civil Engineering and Industrial Design
-School of Engineering
-University of Liverpool, UK
+Assistant Professor  
+Department of Civil Engineering and Industrial Design  
+School of Engineering  
+University of Liverpool, UK  
 
 # Prerequisites
 
