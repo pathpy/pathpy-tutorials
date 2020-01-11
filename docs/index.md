@@ -64,6 +64,6 @@ Unit | Topic | Code
 2 | (Spatial)-Temporal Network Analysis and Visualisation in [`pathpy`](http://www.pathpy.net) (10 min) | [.ipynb](https://github.com/pathpy/pathpy-tutorials)
 3 | Higher-order Models of Paths (10 min) | [.ipynb](https://github.com/pathpy/pathpy-tutorials)
 4 | Multi-order Model Selection (10 min) | [.ipynb](https://github.com/pathpy/pathpy-tutorials)
-5 | Optimal Higher-order Analytics for Temporal Data (.. min) | [.ipynb](https://github.com/pathpy/pathpy-tutorials)
+5 | Optimal Higher-order Analytics for Temporal Data (0 min) | [.ipynb](https://github.com/pathpy/pathpy-tutorials)
 
 
