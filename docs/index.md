@@ -38,13 +38,13 @@ Participants should bring a laptop with a python 3.x environment. For the Sessio
 - tbd
 - tbd
 
-**Live Coding** (40 min)
+**Live Coding** (40 min) | [code](https://github.com/mapequation/netscix-2020-tutorial)
 
-Unit | Topic | Code
+Unit | Topic | Time
 ----|----|----|----
-1 | tbd (10 min) | [.ipynb](https://github.com/mapequation/netscix-2020-tutorial)
-2 | tbd (15 min) | [.ipynb](https://github.com/mapequation/netscix-2020-tutorial)
-3 | tbd (15 min) | [.ipynb](https://github.com/mapequation/netscix-2020-tutorial)
+1 | tbd | 10 min
+2 | tbd | 15 min
+3 | tbd | 15 min
 
 ### Coffee Break
 
@@ -56,14 +56,14 @@ Unit | Topic | Code
 - Higher-order generative models for causal paths
 - Representation learning in temporal network data
 
-**Live Coding** (40 min)
+**Live Coding** (40 min) | [code](https://github.com/pathpy/pathpy-tutorials/blob/master/code/NetSciX-2020.ipynb)
 
-Unit | Topic | Code
+Unit | Topic | Time
 ----|----|----|----
-1 | Introduction to [`pathpy`](http://www.pathpy.net) (10 min) | [.ipynb](https://github.com/pathpy/pathpy-tutorials)
-2 | (Spatial)-Temporal Network Analysis and Visualisation in [`pathpy`](http://www.pathpy.net) (10 min) | [.ipynb](https://github.com/pathpy/pathpy-tutorials)
-3 | Higher-order Models of Paths (10 min) | [.ipynb](https://github.com/pathpy/pathpy-tutorials)
-4 | Multi-order Model Selection (10 min) | [.ipynb](https://github.com/pathpy/pathpy-tutorials)
-5 | Optimal Higher-order Analytics for Temporal Data (0 min) | [.ipynb](https://github.com/pathpy/pathpy-tutorials)
+1 | Introduction to [`pathpy`](http://www.pathpy.net) | 10 min
+2 | (Spatial)-Temporal Network Analysis and Visualisation in [`pathpy`](http://www.pathpy.net) | 10 min
+3 | Higher-order Models of Paths | 10 min
+4 | Multi-order Model Selection | 10 min
+
 
 

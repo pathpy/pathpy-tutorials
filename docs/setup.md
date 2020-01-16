@@ -50,3 +50,12 @@ Conveniently, Visual Studio Code comes with integrated support for `git`. This m
 ```
 pip install pathpy3
 ```
+
+## Setting up jupyter notebook
+
+If you like to use `jupyter notebook` to run your `pathpy` code, please ensure that `ipywidgets` are installed and enabled.
+
+```
+pip install -U ipywidgets
+jupyter nbextension enable --py widgetsnbextension
+```
