@@ -35,22 +35,18 @@ Participants should bring a laptop with a python 3.x environment. For the Sessio
 
 **Intro: Mapping higher-order network flows** (15 min) > [slides](https://github.com/mapequation/netscix-2020-tutorial)
 - tbd
-- tbd
-- tbd
 
 **Live Coding** (40 min) > [code](https://github.com/mapequation/netscix-2020-tutorial)
 
 Unit | Topic | Time
 ----|----|----|----
-1 | tbd | 10 min
-2 | tbd | 15 min
-3 | tbd | 15 min
+1 | tbd | 40 min
 
 ### Coffee Break
 
 ### Session 2: Higher-order Network Analysis and Visualisation with `pathpy`
 
-**Intro: Higher-Order Network Analytics for Time Series Data** (15 min) > [slides](/pathpy-tutorials/slides.pdf)
+**Intro: Higher-Order Network Analytics for Time Series Data** (15 min) > [slides](https://github.com/pathpy/pathpy-tutorials/blob/master/docs/2020-01-NetSciX-short.pdf)
 - Causal paths in temporal network data
 - Ordering matters in time series data
 - Higher-order generative models for causal paths
