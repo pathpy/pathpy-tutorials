@@ -33,14 +33,18 @@ Participants should bring a laptop with a python 3.x environment. For the Sessio
 
 ### Session 1: Mapping higher-order network flows
 
-**Intro: Mapping higher-order network flows** (15 min) > [slides](https://github.com/mapequation/netscix-2020-tutorial)
-- tbd
+**Intro: Mapping higher-order network flows** (20 min) > [slides](https://github.com/mapequation/netscix-2020-tutorial)
+- Coding theory
+- The Map Equation
+- Sparse Markov models
 
 **Live Coding** (40 min) > [code](https://github.com/mapequation/netscix-2020-tutorial)
 
 Unit | Topic | Time
 ----|----|----|----
-1 | tbd | 40 min
+1 | Infomap | 10 min
+2 | Sparse state networks | 15 min
+3 | Model selection and community detection | 15 min
 
 ### Coffee Break
 
