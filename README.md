@@ -6,13 +6,6 @@ In this repository, you will find a collection of
 Network Analysis and Visualisation as well as Higher-Order Network Analytics and
 Multi-Order Model Selection.
 
-The latest [tutorial schedule](https://pathpy.github.io/pathpy-tutorials/) as
-well as [step-by-step setup
-instructions](https://pathpy.github.io/pathpy-tutorials/setup) can be found on
-the [tutorial website](https://pathpy.github.io/pathpy-tutorials/). If you are
-interested in an older tutorial, you can switch the branch based on the tutorial
-tag.
-
 Obtain the tutorial material
 ----------------------------
 
@@ -20,11 +13,11 @@ While you can manually download all necessary files, we strongly recommend to
 clone this repository to obtain a local, sychronised copy of all material via
 `git`. Assuming you have a local `git` installation, you can do this as follows:
 
-    git clone --depth 1 --branch NetSciX-2020 https://github.com/pathpy/pathpy-tutorials
+    git clone --depth 1 --branch NetSci-2020 https://github.com/pathpy/pathpy-tutorials
 
 The option `--depth 1` ensures that you only get the latest version, ignoring
 the history of the repository. Furthermore, the option `--branch <Tag>`
-(e.g. `--branch NetSciX-2020`) ensures that you get the right tutorials. If you
+(e.g. `--branch NetSci-2020`) ensures that you get the right tutorials. If you
 don't have `git` installed already, here you can find information on [how to set
 up git](https://help.github.com/articles/set-up-git/).
 
@@ -57,3 +50,4 @@ excited to hear from you!
 | Date       | Event               | Title                                                 | Tag          |
 |------------|---------------------|-------------------------------------------------------|--------------|
 | 2020-01-23 | NetSci-X 2020 Tokyo | Higher-Order Network Models for Temporal Network Data | NetSciX-2020 |
+| 2020-09-17 | NetSci 2020 Rome    | Live Demo: pathpy 3                                   | NetSci-2020  |
